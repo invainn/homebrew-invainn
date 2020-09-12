@@ -1,0 +1,2 @@
+# homebrew-invainn
+* neovim-nightly
